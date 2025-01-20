@@ -1,0 +1,271 @@
+gpkg_fid,Name,Alt Name,Description,Canyon Region,Quality (1-10),Longest Abseil (m),Num Abseils,Technical Difficulty (B/BG/I/A),Remoteness/Accessbility (VEA/EA/M/R/VR),Distance,Flow Accumulation,Wetsuit Reccomendation (N/R/SR),Time,Source,Source Link,Image Path,longitude,latitude
+94,Gobsmacker Canyon,Lower Bowens Creek North Canyon,,Bowens Creek Canyons,8,15,4,,EA,8,,R,,,https://ozultimate.com/canyoning/track_notes/lower_bowens_creek_north.htm,,150.3932034,-33.5215018
+95,Bowens Creek North (Upper),,,Bowens Creek Canyons,8,15,6,,EA,9,,R,,,https://ozultimate.com/canyoning/track_notes/bowens_creek_north.htm,,150.3650034,-33.5221018
+96,Bowens Creek South (Lower) ?,,,Bowens Creek Canyons,,,,,,,,,,,,,150.3879034,-33.5358018
+97,Bowens Creek South (Upper),,,Bowens Creek Canyons,9,20,7,BG,EA,7,,R,,,https://ozultimate.com/canyoning/track_notes/bowens_creek_south.htm,,150.3547034,-33.5529018
+177,Hand Over Hand Canyon,,,Bowens Creek Canyons,,,,,,,,,,,,,150.3605214,-33.5486258
+178,Hobnail Canyon,,,Bowens Creek Canyons,,,,,,,,,,,,,150.3669704,-33.5475428
+179,Corkscrew Canyon,,,Bowens Creek Canyons,,,,,,,,,,,,,150.3634694,-33.5568238
+252,Zircon Creek,,,Bowens Creek Canyons,,,,,,,,,,,,,150.4342466,-33.5057964
+253,Waterfall Creek,,,Bowens Creek Canyons,,,,,,,,,,,,,150.3987277,-33.5049629
+256,Ferny Cave,,,Bowens Creek Canyons,,,,,,,,,,,,,150.3635491,-33.5452441
+257,Marihuana Canyon,,,Bowens Creek Canyons,,,,,,,,,,,,,150.3738665,-33.5493241
+258,Corkscrew Canyon,,,Bowens Creek Canyons,,,,,,,,,,,,,150.3560511,-33.5510799
+57,Coin Slot Canyon,,,Capertee Valley,,,,,,,,,,,,,150.3297034,-33.1224018
+58,Bull Ant Canyon,,,Capertee Valley,,,,,,,,,,,,,150.3148034,-33.1336018
+59,Freshwater Creek Canyon,,,Capertee Valley,,,,,,,,,,,,,150.3079034,-33.1515018
+217,Woser's Canyon (RJ),,,Capertee Valley,,,,,,,,,,,,,150.3458184,-33.1325118
+243,Dingo Creek Gorge,,,Capertee Valley,,,,,,,,,,,,,150.3948551,-33.1444318
+98,Ranon Brook,,,Carmarthen Labyrinth,,,,,,,,,,,,,150.3924034,-33.5554018
+99,Claustral Canyon,,,Carmarthen Labyrinth,,,,,,,,,,,,,150.4033034,-33.5603018
+100,Thunder Canyon,,,Carmarthen Labyrinth,,,,,,,,,,,,,150.4001034,-33.5693018
+130,King George Brook Canyon,,,Carmarthen Labyrinth,,,,,,,,,,,,,150.4118764,-33.5861908
+131,Buramin Canyon,,,Carmarthen Labyrinth,,,,,,,,,,,,,150.4092854,-33.5938308
+132,King George Brook Canyon,,,Carmarthen Labyrinth,,,,,,,,,,,,,150.3825434,-33.5805928
+261,Gaping Gill,,,Carmarthen Labyrinth,,,,,,,,,,,,,150.4170668,-33.5673959
+262,Explorers Brook,,,Carmarthen Labyrinth,,,,,,,,,,,,,150.3834368,-33.6026824
+49,Midwinter Canyon,,,Coorongooba Labyrinth,,,,,,,,,,,,,150.2822034,-32.9391018
+50,Blackboard Canyon,,,Coorongooba Labyrinth,,,,,,,,,,,,,150.3192034,-32.9525018
+52,Anaconda Canyon,,,Coorongooba Labyrinth,,,,,,,,,,,,,150.2956034,-32.9916018
+53,Boa Constrictor Canyon,,,Coorongooba Labyrinth,,,,,,,,,,,,,150.3070034,-33.0009018
+54,Bell Bird Canyon,,,Coorongooba Labyrinth,,,,,,,,,,,,,150.3075034,-33.0207018
+55,Brain Storm Canyon,,,Coorongooba Labyrinth,,,,,,,,,,,,,150.3674034,-33.0229018
+56,Camels Canyon,,,Coorongooba Labyrinth,,,,,,,,,,,,,150.2795034,-33.0273018
+162,Caveman Canyon RJ,,,Coorongooba Labyrinth,,,,,,,,,,,,,150.3052994,-32.9627938
+168,MR 461516,,,Coorongooba Labyrinth,,,,,,,,,,,,,150.2859954,-32.9427488
+169,MR 459510,,,Coorongooba Labyrinth,,,,,,,,,,,,,150.2823984,-32.9480438
+170,MR 492492,,,Coorongooba Labyrinth,,,,,,,,,,,,,150.3169644,-32.9652178
+180,Resurrection Canyon (RJ),,,Coorongooba Labyrinth,,,,,,,,,,,,,150.3138314,-32.9846228
+183,Leatherface Canyon (RJ),,,Coorongooba Labyrinth,,,,,,,,,,,,,150.2993264,-32.9709358
+184,Wave Canyon (RJ),,,Coorongooba Labyrinth,,,,,,,,,,,,,150.3529764,-32.9733948
+185,Jumping Jacks Canyon (RJ),,,Coorongooba Labyrinth,,,,,,,,,,,,,150.3123534,-32.9475178
+187,Ian's Canyon (RJ),,,Coorongooba Labyrinth,,,,,,,,,,,,,150.3263844,-32.9285358
+188,MGA 523554 (RJ),,,Coorongooba Labyrinth,,,,,,,,,,,,,150.3509074,-32.9118228
+190,Crucifiction Canyon (RJ),,,Coorongooba Labyrinth,,,,,,,,,,,,,150.3182234,-32.9785708
+192,Never Ending Canyon (RJ),,,Coorongooba Labyrinth,,,,,,,,,,,,,150.3534094,-32.9789858
+193,Grassy Canyon (RJ),,,Coorongooba Labyrinth,,,,,,,,,,,,,150.2795154,-32.9623718
+194,Steam Shovel Canyon (RJ),,,Coorongooba Labyrinth,,,,,,,,,,,,,150.3331614,-32.9662718
+195,Bridge Canyon (RJ),,,Coorongooba Labyrinth,,,,,,,,,,,,,150.2831854,-32.9503978
+196,Greenup Canyon (RJ - MR 461516),,,Coorongooba Labyrinth,,,,,,,,,,,,,150.2860994,-32.9428438
+198,Slippery Log Canyon (RJ),,,Coorongooba Labyrinth,,,,,,,,,,,,,150.2868364,-32.9161138
+199,Fergie's Canyon (RJ),,,Coorongooba Labyrinth,,,,,,,,,,,,,150.3377254,-32.9107228
+200,Squiggle Canyon (RJ),,,Coorongooba Labyrinth,,,,,,,,,,,,,150.3276194,-32.9623388
+203,Snake Pit Canyon (RJ),,,Coorongooba Labyrinth,,,,,,,,,,,,,150.2903404,-32.9898868
+204,Golgotha Canyon (RJ),,,Coorongooba Labyrinth,,,,,,,,,,,,,150.3133644,-33.0001918
+205,Honey Pot Canyon (RJ),,,Coorongooba Labyrinth,,,,,,,,,,,,,150.3023724,-33.0253218
+206,Pathway Canyon (RJ),,,Coorongooba Labyrinth,,,,,,,,,,,,,150.3587884,-33.0171598
+207,Spiderman Canyon (RJ),,,Coorongooba Labyrinth,,,,,,,,,,,,,150.3878784,-33.0310338
+208,Escapable Canyon (RJ),,,Coorongooba Labyrinth,,,,,,,,,,,,,150.3803704,-33.0356898
+209,Wagtail Canyon (RJ),,,Coorongooba Labyrinth,,,,,,,,,,,,,150.3135094,-33.0072458
+210,Donut machine Canyon (RJ),,,Coorongooba Labyrinth,,,,,,,,,,,,,150.3638074,-33.0049488
+211,Jam Jar Canyon (RJ),,,Coorongooba Labyrinth,,,,,,,,,,,,,150.2879464,-33.0277308
+212,Spider Baby Canyon (RJ),,,Coorongooba Labyrinth,,,,,,,,,,,,,150.3673824,-33.0312368
+213,Groper's Canyon (RJ),,,Coorongooba Labyrinth,,,,,,,,,,,,,150.3082364,-33.0122488
+214,Excalibur Canyon (RJ),,,Coorongooba Labyrinth,,,,,,,,,,,,,150.3622864,-33.0115968
+218,Marathon Canyon (RJ),,,Coorongooba Labyrinth,,,,,,,,,,,,,150.3195164,-33.0947778
+219,Pegleg Canyon (RJ),,,Coorongooba Labyrinth,,,,,,,,,,,,,150.3568374,-33.0867008
+220,Trapped Canyon (RJ),,,Coorongooba Labyrinth,,,,,,,,,,,,,150.3451964,-33.0606398
+242,Lunchtime Canyon,,,Coorongooba Labyrinth,,,,,,,,,,,,,150.3040001,-32.9582459
+101,Butterbox Canyon,,,Grose Valley Canyons,,,,,,,,,,,,,150.3970034,-33.6304018
+102,Fortress Canyon,,,Grose Valley Canyons,,,,,,,,,,,,,150.3593034,-33.6445018
+103,Arethusa Canyon,,,Grose Valley Canyons,,,,,,,,,,,,,150.3467034,-33.6589018
+104,Alpheus Canyon,,,Grose Valley Canyons,,,,,,,,,,,,,150.3504034,-33.6580018
+105,Jugglers Canyon,,,Grose Valley Canyons,,,,,,,,,,,,,150.3294034,-33.6592018
+106,Grand Canyon,,,Grose Valley Canyons,,,,,,,,,,,,,150.3179034,-33.6563018
+123,Yileen Canyon,,,Grose Valley Canyons,,,,,,,,,,,,,150.3290844,-33.5702188
+124,Wotta Canyon,,,Grose Valley Canyons,,,,,,,,,,,,,150.3261544,-33.5543468
+125,Birrabang Canyon,,,Grose Valley Canyons,,,,,,,,,,,,,150.3242884,-33.5462598
+126,Better Offer Canyon (Magnifying Glass),,,Grose Valley Canyons,,,,,,,,,,,,,150.3155064,-33.5475588
+127,Dalpura Canyon,,,Grose Valley Canyons,,,,,,,,,,,,,150.3095054,-33.5397758
+128,Jungaburra Canyon,,,Grose Valley Canyons,,,,,,,,,,,,,150.2968594,-33.5347048
+129,Koombanda Canyon,,,Grose Valley Canyons,,,,,,,,,,,,,150.2806934,-33.5301978
+133,Crayfish Creek Canyon,,,Grose Valley Canyons,,,,,,,,,,,,,150.3041804,-33.5921398
+134,Hat Hill Canyon,,,Grose Valley Canyons,,,,,,,,,,,,,150.3204104,-33.5934518
+135,Oronga Canyon,,,Grose Valley Canyons,,,,,,,,,,,,,150.3540384,-33.5801268
+259,Kamarah Gully,,,Grose Valley Canyons,,,,,,,,,,,,,150.2919859,-33.5221502
+260,Sarcophagus Canyon,,,Grose Valley Canyons,,,,,,,,,,,,,150.3406834,-33.5753714
+148,Moko Creek Canyon,,,Kanangra Canyons,,,,,,,,,,,,,150.1986034,-33.9154018
+149,Davies Canyon,,,Kanangra Canyons,,,,,,,,,,,,,150.1140034,-33.9239018
+150,Carrabeanga Canyon,,,Kanangra Canyons,,,,,,,,,,,,,150.1171034,-33.9345018
+151,Thurat Rift,,,Kanangra Canyons,,,,,,,,,,,,,150.1230034,-33.9481018
+152,Danae Brook,,,Kanangra Canyons,,,,,,,,,,,,,150.1087034,-33.9672018
+153,Kanangra Main,,,Kanangra Canyons,,,,,,,,,,,,,150.0991034,-33.9809018
+154,Kalang Falls,,,Kanangra Canyons,,,,,,,,,,,,,150.1089034,-33.9843018
+155,Arabanoo Canyon,,,Kanangra Canyons,,,,,,,,,,,,,150.1140034,-33.9978018
+156,Dione Dell,,,Kanangra Canyons,,,,,,,,,,,,,150.0909034,-34.0027018
+157,Christys Creek,,,Kanangra Canyons,,,,,,,,,,,,,150.0955034,-34.0098018
+158,Wheengee Whungee Creek Canyon,,,Kanangra Canyons,,,,,,,,,,,,,150.0664034,-34.0206018
+159,Doris Creek Canyon,,,Kanangra Canyons,,,,,,,,,,,,,150.0498034,-34.0438018
+77,Deep Pass Canyon,,,Nayook,,,,,,,,,,,,,150.3076034,-33.3396018
+172,Harmonic Bells Canyon,,,Nayook,,,,,,,,,,,,,150.3481804,-33.3262628
+234,Harmonic Convergence Canyon (RJ),,,Nayook,,,,,,,,,,,,,150.3456004,-33.3341048
+235,Rock Hill Canyon (RJ),,,Nayook,,,,,,,,,,,,,150.3454224,-33.3248608
+236,Sandy Cave Canyon (RJ),,,Nayook,,,,,,,,,,,,,150.3661704,-33.3439038
+51,CJs Canyon,,,Ovens Creek,,,,,,,,,,,,,150.3806034,-32.9384018
+181,Hot Cross Canyon (RJ),,,Ovens Creek,,,,,,,,,,,,,150.3815324,-32.9751818
+182,Untamed Canyon (RJ),,,Ovens Creek,,,,,,,,,,,,,150.3923104,-32.9706098
+186,Nude Canyon (RJ),,,Ovens Creek,,,,,,,,,,,,,150.3803394,-32.9496328
+189,Execution Canyon (RJ),,,Ovens Creek,,,,,,,,,,,,,150.3737424,-32.9015708
+191,Clutter Box Canyon (RJ),,,Ovens Creek,,,,,,,,,,,,,150.3784114,-32.9768018
+197,Cricket Canyon (RJ),,,Ovens Creek,,,,,,,,,,,,,150.3907504,-32.9587918
+47,Gateway Canyon,,,The Bungleboori,,,,,,,,,,,,,150.3283914,-33.3654948
+48,Deep Throat Canyon,,,The Bungleboori,,,,,,,,,,,,,150.3477784,-33.3990368
+78,Banks Canyon,,,The Bungleboori,,,,,,,,,,,,,150.3390034,-33.3613018
+79,Hole in the wall Canyon,,,The Bungleboori,,,,,,,,,,,,,150.3334914,-33.3716848
+80,Bungleboori South Canyon,,,The Bungleboori,,,,,,,,,,,,,150.2299034,-33.4130018
+81,Bjelkes Mind Canyon,,,The Bungleboori,,,,,,,,,,,,,150.3619034,-33.3853018
+82,Bridge Canyon,,,The Bungleboori,,,,,,,,,,,,,150.3575034,-33.3888018
+83,Cannons Canyon,,,The Bungleboori,,,,,,,,,,,,,150.3524034,-33.3938018
+84,Arch Canyon,,,The Bungleboori,,,,,,,,,,,,,150.3400034,-33.4001018
+85,Arthurs Canyon,,,The Bungleboori,,,,,,,,,,,,,150.3095034,-33.4102018
+115,Crikey Canyon,,,The Bungleboori,,,,,,,,,,,,,150.3597534,-33.3697148
+136,Luna Park Canyon,,,The Bungleboori,,,,,,,,,,,,,150.3318704,-33.4082288
+137,Scatters Canyon,,,The Bungleboori,,,,,,,,,,,,,150.3167814,-33.4002728
+138,Dead Tree Canyon,,,The Bungleboori,,,,,,,,,,,,,150.3323114,-33.4021638
+139,Four Dope Canyon,,,The Bungleboori,,,,,,,,,,,,,150.3453424,-33.3992908
+140,Whip Bird Canyon,,,The Bungleboori,,,,,,,,,,,,,150.3554584,-33.3960438
+141,Froth and Bubble Canyon,,,The Bungleboori,,,,,,,,,,,,,150.3522884,-33.3793678
+142,Fortitude Canyon,,,The Bungleboori,,,,,,,,,,,,,150.3476524,-33.3653828
+143,Nosedive Canyon,,,The Bungleboori,,,,,,,,,,,,,150.3429314,-33.3648198
+144,North East Canyon,,,The Bungleboori,,,,,,,,,,,,,150.3351354,-33.3642858
+145,Popeye Canyon,,,The Bungleboori,,,,,,,,,,,,,150.3188854,-33.3768868
+171,Four-Man Canyon,,,The Bungleboori,,,,,,,,,,,,,150.3776874,-33.3770748
+221,Scrub Bash Canyon (RJ),,,The Bungleboori,,,,,,,,,,,Shit apparently says RJ,,150.3656534,-33.4540338
+222,Interesting Creek (RJ),,,The Bungleboori,,,,,,,,,,,,,150.3904444,-33.4550348
+223,Sidewinder Canyon (RJ),,,The Bungleboori,,,,,,,,,,,,,150.3529464,-33.4576658
+224,Puzzle Canyon (RJ),,,The Bungleboori,,,,,,,,,,,,,150.3517354,-33.4413548
+225,Up Ya Crack Canyon (RJ),,,The Bungleboori,,,,,,,,,,,Very narrow,,150.3812844,-33.4459118
+226,Up Ya Bum Canyon (RJ),,,The Bungleboori,,,,,,,,,,,,,150.3834024,-33.4365238
+227,Dumbano North Branch (RJ),,,The Bungleboori,,,,,,,,,,,,,150.3054014,-33.4268338
+228,Tunnel Canyon (RJ),,,The Bungleboori,,,,,,,,,,,,,150.3846614,-33.4059558
+229,Cesspit Canyon (RJ),,,The Bungleboori,,,,,,,,,,,,,150.3262824,-33.4291698
+239,Crystal Pools Canyon (RJ),,,The Bungleboori,,,,,,,,,,,,,150.2621074,-33.4303598
+240,Stick Canyon (RJ),,,The Bungleboori,,,,,,,,,,,,,150.2889824,-33.4167468
+250,Captain's Canyon (RJ),,,The Bungleboori,,,,,,,,,,,,,150.3691316,-33.4384469
+251,Short Creek (RJ),,,The Bungleboori,,,,,,,,,,,,,150.427948,-33.4352849
+270,Hailstorm Retreat,,,The Bungleboori,,,,,,,,,,,,,150.3231908,-33.40168148
+42,Sunnyside Canyon,,,Wolgan / Newnes Expanse,,,,,,,,,,,,,150.1582254,-33.2870948
+43,Waterecho Canyon,,,Wolgan / Newnes Expanse,,,,,,,,,,,,,150.1843714,-33.2877738
+44,Zorro Canyon,,,Wolgan / Newnes Expanse,,,,,,,,,,,,,150.2035944,-33.2925918
+45,Pleasant View Canyon,,,Wolgan / Newnes Expanse,,,,,,,,,,,,,150.2065644,-33.2972768
+46,Wombat Canyon,,,Wolgan / Newnes Expanse,,,,,,,,,,,,,150.1599094,-33.2876338
+60,Newness / Starlight Canyon,,,Wolgan / Newnes Expanse,,,,,,,,,,,,,150.2844034,-33.1559018
+63,Firefly Canyon,,,Wolgan / Newnes Expanse,,,,,,,,,,,,,150.2764034,-33.1795018
+64,Hartleys Mistake Canyon,,,Wolgan / Newnes Expanse,,,,,,,,,,,,,150.2763034,-33.1985018
+65,Bigfoot Canyon,,,Wolgan / Newnes Expanse,,,,,,,,,,,,,150.2712034,-33.2069018
+66,Tiger Snake Canyon,,,Wolgan / Newnes Expanse,,,,,,,,,,,,,150.2527034,-33.2214018
+67,Inverse Canyon,,,Wolgan / Newnes Expanse,,,,,,,,,,,,,150.3526034,-33.2310018
+68,Bull Ring Canyon,,,Wolgan / Newnes Expanse,,,,,,,,,,,,,150.3800034,-33.2477018
+69,Heart Attack Canyon,,,Wolgan / Newnes Expanse,,,,,,,,,,,,,150.3029034,-33.2383018
+70,Contradiction Canyon,,,Wolgan / Newnes Expanse,,,,,,,,,,,,,150.3200034,-33.2456018
+71,Thunderstorm Canyon,,,Wolgan / Newnes Expanse,,,,,,,,,,,,,150.3228034,-33.2691018
+72,Breakfast Creek Canyon,,,Wolgan / Newnes Expanse,,,,,,,,,,,,,150.2991034,-33.2721018
+73,Coachwood Canyon,,,Wolgan / Newnes Expanse,,,,,,,,,,,,,150.2936034,-33.2810018
+74,Rocky Creek Canyon,,,Wolgan / Newnes Expanse,,,,,,,,,,,,,150.2954064,-33.2890388
+75,Twister Canyon,,,Wolgan / Newnes Expanse,,,,,,,,,,,,,150.2864034,-33.2876018
+113,Bells  Grotto,,,Wolgan / Newnes Expanse,,,,,,,,,,,,,150.2268784,-33.2401558
+114,The Dry Canyon,,,Wolgan / Newnes Expanse,,,,,,,,,,,,,150.2101274,-33.2559898
+116,Galah Canyon,,,Wolgan / Newnes Expanse,,,,,,,,,,,,,150.3032114,-33.2513578
+117,Closet Canyon,,,Wolgan / Newnes Expanse,,,,,,,,,,,,,150.3080234,-33.2596948
+118,Surefire Canyon,,,Wolgan / Newnes Expanse,,,,,,,,,,,,,150.2915404,-33.2266808
+119,Looking Glass Canyon,,,Wolgan / Newnes Expanse,,,,,,,,,,,,,150.2821924,-33.1802918
+120,Pipeline Canyon,,,Wolgan / Newnes Expanse,,,,,,,,,,,,,150.2660054,-33.1647908
+121,Nightmare Canyon,,,Wolgan / Newnes Expanse,,,,,,,,,,,,,150.2727234,-33.1654608
+122,Devils Pinch Canyon,,,Wolgan / Newnes Expanse,,,,,,,,,,,,,150.2804864,-33.1643828
+163,Reverse Canyon,,,Wolgan / Newnes Expanse,,,,,,,,,,,,,150.3610264,-33.2482338
+164,Bull Race Canyon,,,Wolgan / Newnes Expanse,,,,,,,,,,,,,150.3348264,-33.2166648
+165,Twilight Canyon,,,Wolgan / Newnes Expanse,,,,,,,,,,,,,150.2985144,-33.1864478
+166,Little Dingo Canyon,,,Wolgan / Newnes Expanse,,,,,,,,,,,,,150.3475224,-33.2114038
+167,Lyrebird Canyon,,,Wolgan / Newnes Expanse,,,,,,,,,,,,,150.3574284,-33.2413658
+173,Disappointment Canyon,,,Wolgan / Newnes Expanse,,,,,,,,,,,,,150.3612364,-33.2620518
+215,False Teeth Canyon (RJ),,,Wolgan / Newnes Expanse,,,,,,,,,,,,,150.2956484,-33.1492998
+230,Constance Gorge Walk,,,Wolgan / Newnes Expanse,,,,,,,,,,,,,150.2551604,-33.2114338
+231,Quick Dip Canyon (RJ),,,Wolgan / Newnes Expanse,,,,,,,,,,,,,150.3099184,-33.2773998
+232,Ferny Canyon (RJ),,,Wolgan / Newnes Expanse,,,,,,,,,,,,,150.3100924,-33.2846998
+233,Tea Time Canyon ? (RJ),,,Wolgan / Newnes Expanse,,,,,,,,,,,,,150.3098484,-33.2591548
+237,Upper Deanes Creek Canyon,,,Wolgan / Newnes Expanse,,,,,,,,,,,,,150.2622024,-33.2772578
+244,Drainpipe Canyon,,,Wolgan / Newnes Expanse,,,,,,,,,,,,,150.265839,-33.1618892
+245,Penrose Gully,,,Wolgan / Newnes Expanse,,,,,,,,,,,,,150.2449655,-33.224438
+246,Windows,,,Wolgan / Newnes Expanse,,,,,,,,,,,,,150.2455574,-33.2166168
+247,Hole in the Rock,,,Wolgan / Newnes Expanse,,,,,,,,,,,,,150.2479851,-33.213153
+248,Sheep Dip Canyon,,,Wolgan / Newnes Expanse,,,,,,,,,,,,,150.2693603,-33.3117096
+87,Whungee Wheengee Canyon,,,Wollangambe Canyons,,,,,,,,,,,,,150.3742034,-33.4757018
+88,Water Dragon Canyon,,,Wollangambe Canyons,,,,,,,,,,,,,150.3676034,-33.4837018
+89,Wollangambe 2 Canyon,,,Wollangambe Canyons,,,,,,,,,,,,,150.3743034,-33.4871018
+90,Serendipity Canyon,,,Wollangambe Canyons,,,,,,,,,,,,,150.3808884,-33.4933488
+91,Wollangambe 1 Canyon,,,Wollangambe Canyons,,,,,,,,,,,,,150.3588034,-33.4889018
+92,Bell Creek Canyon,,,Wollangambe Canyons,,,,,,,,,,,,,150.3371034,-33.4999018
+93,Belfry Canyon,,,Wollangambe Canyons,,,,,,,,,,,,,150.3360034,-33.5011018
+109,Waterfall of Moss Canyon,,,Wollangambe Canyons,,,,,,,,,,,,,150.3847404,-33.4775508
+110,Horshoe Canyon,,,Wollangambe Canyons,,,,,,,,,,,,,150.3551144,-33.4847748
+111,Geronimo Canyon,,,Wollangambe Canyons,,,,,,,,,,,,,150.3518984,-33.4861388
+112,Clatterteeth Canyon,,,Wollangambe Canyons,,,,,,,,,,,,,150.3422214,-33.5117808
+174,Du Faur Canyon,,,Wollangambe Canyons,,,,,,,,,,,,,150.3516154,-33.4997228
+175,Joe's Canyon,,,Wollangambe Canyons,,,,,,,,,,,,,150.3566714,-33.4953638
+176,Wollangambe Lower Section,,,Wollangambe Canyons,,,,,,,,,,,,,150.3965364,-33.4871958
+238,Gooch's Canyon (RJ),,,Wollangambe Canyons,,,,,,,,,,,,,150.2695024,-33.4562038
+241,Old Man Canyon,,,Wollangambe Canyons,,,,,wx,,,,,,,,150.3960649,-33.4719344
+254,Little Bell,,,Wollangambe Canyons,,,,,,,,,,,,,150.3358653,-33.5031982
+255,Whirlpool Canyon,,,Wollangambe Canyons,,,,,,,,,,,,,150.3400807,-33.482182
+1,Apsley Gorge,,,,,,,,,,,,,,,,151.9075034,-31.1033349
+2,Apsley Falls,,,,,,,,,,,,,,,,151.7691704,-31.0497239
+3,Bakers Creek,,,,,,,,,,,,,,,,151.8908364,-30.5438909
+4,Hastings River Canyon,,,,,,,,,,,,,,,,152.2186144,-31.2077799
+5,Mihi Gorge,,,,,,,,,,,,,,,,151.7283364,-30.6736129
+6,Styx River,,,,,,,,,,,,,,,,152.1983364,-30.5775019
+7,Wollomombi Gorge,,,,,,,,,,,,,,,,152.0452814,-30.5336129
+8,Gloucester Falls,,,,,,,,,,,,,,,,151.6000034,-32.0986128
+9,Polblue Falls,,,,,,,,,,,,,,,,151.3875034,-31.9255578
+10,Emperor Falls,,,,,,,,,,,,,,,,151.5977814,-32.1019458
+11,Williams River,,,,,,,,,,,,,,,,151.4850034,-32.0755578
+12,Gleniffer Canyon,,,,,,,,,,,,,,,,152.8936144,-30.3341689
+13,Rosewood Canyon,,,,,,,,,,,,,,,,152.7988924,-30.3613909
+14,Bangalore Canyon,,,,,,,,,,,,,,,,152.9200034,-30.2950019
+15,Dandahra Canyon,,,,,,,,,,,,,,,,152.3705594,-29.5208349
+16,Urumbilum Canyon,,,,,,,,,,,,,,,,152.9352814,-30.3205579
+17,Wayper Canyon,,,,,,,,,,,,,,,,152.9158364,-30.2569459
+18,Sassafrass,,,,,,,,,,,,,,,,152.7875034,-30.3686129
+19,Coombadjha Creek,,,,,,,,,,,,,,,,152.3372254,-29.4594459
+20,Dandahra Falls,,,,,,,,,,,,,,,,152.3700034,-29.5202799
+21,Clouds Creek,,,,,,,,,,,,,,,,152.6786144,-30.0400019
+22,Hell Hole Falls,,,,,,,,,,,,,,,,153.3508364,-28.4797239
+23,Ironpot Creek Canyon,,,,,,,,,,,,,,,,152.7400034,-28.4680579
+24,Lynch’s Creek,,,,,,,,,,,,,,,,153.1111144,-28.4058349
+25,Mackay's No4,,,,,,,,,,,,,,,,153.3172254,-28.5819459
+26,Nilla Nilla Gorge,,,,,,,,,,,,,,,,153.3166704,-28.4600019
+27,Silent Pool,,,,,,,,,,,,,,,,152.5275034,-30.3086129
+28,Jerrara,,,,,,,,,,,,,,,,149.9994474,-34.7950018
+29,Landers Falls,,,,,,,,,,,,,,,,148.3488924,-35.6397238
+30,Spring Creek (Bungonia),,,,,,,,,,,,,,,,150.0366704,-34.8513908
+31,Long Gully,,,,,,,,,,,,,,,,150.0297254,-34.8477798
+32,Bungonia Main,,,,,,,,,,,,,,,,150.0005594,-34.8011128
+33,Lady Northcote,,,,,,,,,,,,,,,,148.2733364,-36.3936127
+34,Tuross Falls Canyon,,,,,,,,,,,,,,,,149.5205594,-36.2241688
+35,Waterfall Creek (Brindabella),,,,,,,,,,,,,,,,148.7566704,-35.2380578
+36,Bindook Chasm,,,,,,,,,,,,,,,,150.0852814,-34.1775018
+37,Fordham,,,,,,,,,,,,,,,,150.0450034,-34.8436128
+38,Mares Forest Creek,,,,,,,,,,,,,,,,149.9502814,-34.3088908
+39,Sunken Treasure,,,,,,,,,,,,,,,,148.3441704,-36.0105578
+40,Talbingo Rift,,,,,,,,,,,,,,,,148.3313924,-35.6158348
+41,Tin Mine falls,,,,,,,,,,,,,,,,148.2361144,-36.6766687
+61,Wounded Knee Canyon,,,,,,,,,,,,,,,,150.5376034,-33.2043018
+62,Box (Corrongooba) Canyon,,,,,,,,,,,,,,,,150.1158034,-32.5972018
+76,Alcatraz Canyon,,,,,,,,,,,,,,,,150.2396034,-33.3447018
+86,Dargans Creek Canyon,,,,,,,,,,,,,,,,150.2511034,-33.4862018
+107,Ashcroft Ravine,,,,,,,,,,,,,,,,150.3873034,-33.6842018
+108,Empress Canyon,,,,,,,,,,,,,,,,150.3625034,-33.7200018
+146,Hellgate Canyon,,,,,,,,,,,,,,,,150.0929034,-33.8161018
+147,Jenolan Canyon,,,,,,,,,,,,,,,,150.1655034,-33.8062018
+160,Kowmung Gorge,,,,,,,,,,,,,,,,149.9869034,-33.9858018
+161,Box Creek Canyon,,,,,,,,,,,,,,,,149.9970034,-33.9452018
+201,Coricudgy Creek (RJ),,,,,,,,,,,,,,,,150.3466794,-32.7956478
+202,Pinnacle Creek (RJ),,,,,,,,,,,,,,,,150.3495854,-32.7533298
+216,Minotaur Lair Canyon (RJ),,,,,,,,,,,,,,,,150.2310874,-33.2011228
+249,River Caves,,,,,,,,,,,,,,,,150.3024993,-33.3166362
+263,Waterfall Creek,,,,,,,,,,,,,,,,150.3894197,-33.7853396
+264,Great Uncle George Canyon,,,,,,,,,,,,,,,,150.3919831,-33.7387915
+265,Cascade Falls,,,,,,,,,,,,,,,,150.6733897,-34.5646632
+266,Macquarie Pass,,,,,,,,,,,,,,,,150.6465723,-34.5719934
+267,Watta Canyon,,,,,,,,,,,,,,,,150.6227246,-34.6150325
+268,Minnamurra Canyon,,,,,,,,,,,,,,,,150.7038437,-34.6337618
+269,Fairy Bower Falls,,,,,,,,,,,,,,,,150.3068698,-34.6780101
