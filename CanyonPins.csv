@@ -1,4 +1,4 @@
-gpkg_fid,Name,Alt Name,Description,Canyon Region,Quality (1-10),Longest Abseil (m),Num Abseils,Technical Difficulty (B/BG/I/A),Remoteness/Accessbility (VEA/EA/M/R/VR),Distance,Flow Accumulation,Wetsuit Reccomendation (N/R/SR),Time,Source,Source Link,Image Path,longitude,latitude
+gpkg_fid,Name,Alt Name,Description,Canyon Region,Quality (1-10),Longest Abseil (m),Num Abseils,Technical Difficulty (B/BG/I/A),Remoteness/Accessbility (VEA/EA/M/R/VR),Distance,Flow Accumulation,Wetsuit Reccomendation (N/R/SR),Time,Source,Source Link,Image Path,long,lat
 94,Gobsmacker Canyon,Lower Bowens Creek North Canyon,,Bowens Creek Canyons,8,15,4,,EA,8,,R,,,https://ozultimate.com/canyoning/track_notes/lower_bowens_creek_north.htm,,150.3932034,-33.5215018
 95,Bowens Creek North (Upper),,,Bowens Creek Canyons,8,15,6,,EA,9,,R,,,https://ozultimate.com/canyoning/track_notes/bowens_creek_north.htm,,150.3650034,-33.5221018
 96,Bowens Creek South (Lower) ?,,,Bowens Creek Canyons,,,,,,,,,,,,,150.3879034,-33.5358018
