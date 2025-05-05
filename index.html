@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>Canyon Pins Map</title>
+    <!-- Leaflet CSS -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+    integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
+    crossorigin=""/>
+    <!-- Leaflet JS -->
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+     integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
+     crossorigin=""></script>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+  <!-- Current Zoom level box -->
+  <div id="zoom-level-display">Zoom: --</div>
+
+  <!-- Leaflet Map -->
+  <div id="map"></div>
+
+  <!-- Omnivore JS -->
+  <script src='https://api.tiles.mapbox.com/mapbox.js/plugins/leaflet-omnivore/v0.3.1/leaflet-omnivore.min.js'></script>
+
+  <!-- Canon Info Panel onPopup -->
+  <!-- Sidebar Panel -->
+<div id="canyon-info" class="canyon-sidebar">
+  <!-- 1. Image Section -->
+  <div class="image-container">
+    <img id="canyon-image" src="placeholder.jpg" alt="Canyon Image">
+  </div>
+
+  <!-- 2. Canyon Name & Close Button (displayed inline using flex) -->
+  <div class="name-close-container">
+    <h2 id="canyon-name">Canyon Name</h2>
+    <button id="close-panel" class="close-btn">✕</button>
+  </div>
+
+  <!-- 3. Description Section -->
+  <div class="description-container">
+    <textarea id="canyon-description" placeholder="No Description" readonly></textarea>
+  </div>
+
+  <!-- 4. Edit/Save Button Section -->
+  <div class="edit-save-container">
+    <button id="edit-save-btn">Edit</button>
+    <button id="cancel-btn" style="display:none;">Cancel</button>
+  </div>
+
+  <!-- 5. Attributes Table Section -->
+  <div class="attributes-container">
+    <table>
+      <tbody id="attributes-table-body">
+        <!-- Example row: You can add more rows as needed -->
+        <tr>
+          <!-- Left Column: Attribute name -->
+          <td>
+            <textarea class="attribute-name" readonly>Longest Abseil:</textarea>
+          </td>
+          <!-- Right Column: Attribute value -->
+          <td>
+            <textarea class="attribute-value" id="longest-abseil" readonly></textarea>
+          </td>
+        </tr>
+        <!-- Additional attribute rows would follow here -->
+      </tbody>
+    </table>
+  </div>
+</div>
+
+  <!-- Local JS -->
+  <script src="index.js"></script>
+</body>
+</html> 
